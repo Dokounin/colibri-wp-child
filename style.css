@@ -1,0 +1,15 @@
+/*
+Theme Name:   colibri-wp-child théme
+Theme URI:    https://github.com/Dyacenko/colibri-wp-child
+Description:  colibri-wp-child
+Author:       Dyacenko
+Author URI:   https://github.com/Dyacenko/
+Template:     colibri-wp
+Version:      1.0.0
+*/
+
+/* put your css code here */
+
+body{
+    background-color: lightblue;
+}
